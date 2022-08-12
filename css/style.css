@@ -1,0 +1,21 @@
+a {
+	text-decoration: none;
+}
+
+.error {
+	color: red;
+}
+
+.style {
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	width: 30%;
+	margin: auto;
+	padding: 1.5rem;
+	margin-top: 10px;
+	border-radius: 5px;
+	border-top: solid 6px blueviolet;
+}
+
+.code{
+	margin-top: 100px;
+}
